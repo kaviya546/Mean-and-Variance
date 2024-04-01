@@ -1,3 +1,6 @@
+## NAME: KAVIYA SNEKA M
+## REGISTER NUMBER:212223040091
+
 #  Mean and variance of a discrete  distribution
 
 
